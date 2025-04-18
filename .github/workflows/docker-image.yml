@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jfoster99/snake-game:latest
+          tags: jfizzle99/snake-game:latest

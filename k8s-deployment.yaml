@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: snake-game
-        image: localhost:5000/snake-game:latest
+        image: jfizzle99/snake-game:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
